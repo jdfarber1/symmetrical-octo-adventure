@@ -8,16 +8,16 @@ Bob always orders a cappuccino, and its cost is hardcoded at $3 (can be changed)
 Net contribution is calculated as the total spent minus personal drink cost.
 The same five coworkers are the only ones in the group order.
 
-### Data Entry:
+## Data Entry:
 
 User will be prompted for the price of each person's drink (besides Bob)
 Bob's drink cost is automatically added.
 The user will have the option to reset the program, otherwise, each person's expenses will be cumulative
 
 
-#### Instructions
+## Instructions
 
-##### Building and Running
+### Building and Running
 
 1. Copy the code from `CoffeeRotation.java`.
 2. Open your preferred Java IDE or text editor.
