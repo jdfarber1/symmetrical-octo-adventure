@@ -18,3 +18,15 @@ If using a command line, navigate to the directory containing `CoffeeRotation.ja
 javac CoffeeRotation.java
 java CoffeeRotation
 # symmetrical-octo-adventure
+
+Assumptions:
+
+Bob always orders a cappuccino, and its cost is hardcoded at $3 (can be changed).
+Net contribution is calculated as the total spent minus personal drink cost.
+The same five coworkers are the only ones in the group order.
+
+Data Entry:
+
+User will be prompted for the price of each person's drink (besides Bob)
+Bob's drink cost is automatically added.
+The user will have the option to reset the program, otherwise, each persons expenses will be cumulative
